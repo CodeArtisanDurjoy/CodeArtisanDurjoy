@@ -1,7 +1,7 @@
 <h2 align="center">
     I'm
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
-    Durjoy Acharya
+    DURJOY ACHARYA
     <img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50"> 
 </h2>
 
@@ -109,7 +109,7 @@ Durjoy.skills.push(...languages, ...frameworks, ...databases);
 <hr/>
 
 <p align="center">
-  <img align="center" alt="OnePiece_Luffy" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/anime/luffy.gif"/>
+  <img align="center" alt="OnePiece_Luffy" src="./luffy.gif"/>
 </p>
 
 <p align="center">
@@ -117,4 +117,4 @@ Durjoy.skills.push(...languages, ...frameworks, ...databases);
 </p>
 
 -----
-<a href="https://www.buymeacoffee.com/dadurjoyr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dadurjoyr&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
+<center><a href="https://www.buymeacoffee.com/dadurjoyr"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=dadurjoyr&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a></center>
