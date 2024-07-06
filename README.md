@@ -100,8 +100,6 @@ Durjoy.skills.push(...languages, ...frameworks, ...databases);
 
 </p>
 
-<hr/>
-
 <p align="center">
   <img align="center" alt="OnePiece_Luffy" src="./luffy.gif"/>
 </p>
