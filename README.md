@@ -81,24 +81,20 @@ Durjoy.skills.push(...languages, ...frameworks, ...databases);
 
 <p align="center">
 
-  <a href="https://www.linkedin.com/in/akshat-tamrakar">
-    <img  alt="Linkedin" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/linkedin.svg"/>
+  <a href="https://www.linkedin.com/in/durjoy-acharya/">
+    <img  alt="Linkedin" width="22px" src="./linkedin-svgrepo-com.svg"/>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.hackerrank.com/dev_akshat">
-    <img  alt="HackerRank" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/hacker_rank.svg"/>
+  <a href="https://leetcode.com/u/Rupkotha/">
+    <img  alt="LeetCode" width="22px" src="./leetcode-svgrepo-com.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://github.com/dev-akshat">
-    <img alt="GitHub" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/github.svg"/>
+  <a href="https://github.com/CodeArtisanDurjoy/">
+    <img alt="GitHub" width="22px" src="./github-01-svgrepo-com.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.instagram.com/a.k.s.h.a.t">
-    <img  alt="Instagram" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/instagram.svg"/>
-  </a>
-  &nbsp&nbsp&nbsp&nbsp
-  <a href="https://www.facebook.com/i.am.akshat.tamrakar">
-    <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
-  </a>
+  <a href="mailto:da-durjoy@outlook.com">
+    <img alt="Email" width="22px" src="./outlook-svgrepo-com.svg"/>
+</a>
   &nbsp&nbsp&nbsp&nbsp
   <a href="https://durjoy-acharya.medium.com">
     <img alt="Medium" width="22px" src="./medium-alt-svgrepo-com.svg"/>
