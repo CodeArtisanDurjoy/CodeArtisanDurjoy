@@ -100,8 +100,8 @@ Durjoy.skills.push(...languages, ...frameworks, ...databases);
     <img alt="Facebook" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/facebook.svg"/>
   </a>
   &nbsp&nbsp&nbsp&nbsp
-  <a href="https://twitter.com/AkshatTamraka12">
-    <img alt="Twitter" width="22px" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/social_media/twitter.svg"/>
+  <a href="https://durjoy-acharya.medium.com">
+    <img alt="Medium" width="22px" src="./medium-alt-svgrepo-com.svg"/>
   </a>
 
 </p>
