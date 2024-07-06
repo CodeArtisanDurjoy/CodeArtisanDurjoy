@@ -75,7 +75,6 @@ Durjoy.skills.push(...languages, ...frameworks, ...databases);
 
 <br/>
 
-<hr/>
 
 <h2 align="center">Find me on</h2>
 
