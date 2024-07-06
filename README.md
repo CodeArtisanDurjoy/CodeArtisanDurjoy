@@ -10,13 +10,13 @@
 <p align="left">
   <samp>
     <br><br>
-    Full stack developer
+    Software Engineer
     <br><br>
      & Learner...
     <br><br>
     Focusing on building beautiful
     <br><br> 
-    & Native applications...
+    & System Design.....
   </samp>
 </p>
 
