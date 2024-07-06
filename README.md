@@ -24,12 +24,12 @@
 
 <p align="left" >
 <img  align="left" alt="ArrowDownward" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/symbols/arrow_downward.svg"/><h3 align="left">FAVOURITE LANGUAGES</h3>
-  <img align="right" alt="Angular" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/angular.svg"/>
- <img width="10%" alt="NestJS" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/nestjs.svg"/>
-  <img width="10%" alt="Flutter" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/flutterio.svg"/>
+  <img align="right" alt="Angular" width="10%" src="./angular-svgrepo-com.svg"/>
+ <img width="10%" alt="NEXT.JS" align="right" src="./nextjs-svgrepo-com.svg"/>
+ <img width="10%" alt=".NET" align="right" src="./asp-svgrepo-com.svg"/>
   <br />
   <br />
-  <img width="10%" alt="Django" align="right" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/frameworks/djangoproject.svg"/>
+  <img width="10%" alt="SpringBoot" align="right" src="./spring-svgrepo-com.svg"/>
 </p>
 <br/>
 <br/>
@@ -38,9 +38,9 @@
   <br/>
   <br/>
   <h3 align="right">FAVOURITE FRAMEWORKS</h3>
-  <img  align="left" alt="TypeScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/typescriptlang.svg"/>
-  <img  align="left" alt="JavaScript" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/javascript.svg"/>
-  <img align="left" alt="Dart" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/dartlang.svg"/>
+  <img  align="left" alt="TypeScript" width="10%" src="./typescriptlang.svg"/>
+  <img  align="left" alt="JavaScript" width="10%" src="./javascript.svg"/>
+  <img align="left" alt="Java" width="10%" src="java-logo-svgrepo-com.svg"/>
   <br />
   <br />
   <img  align="left" alt="Python" width="10%" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/svgs/languages/python.svg"/>
