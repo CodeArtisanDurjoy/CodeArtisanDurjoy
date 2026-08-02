@@ -1,4 +1,4 @@
-<h2 align="center">
+ <h2 align="center">
     I'm
     <img alt="popup_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/giphy.webp" width="50">
     DURJOY ACHARYA
